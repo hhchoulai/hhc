@@ -1,0 +1,10 @@
+export default [
+    //key value的格式  map集合的形式
+    //res/……： html引入各种关联的js，相当于在html里引图片资源，所以路径按HTML里引的路径写
+    ['background','res/background.png'],
+    ['birds','res/birds.png'],
+    ['land','res/land.png'],
+    ['pie_down','res/pie_down.png'],
+    ['pie_up','res/pie_up.png'],
+    ['start_button','res/start_button.png']
+]
